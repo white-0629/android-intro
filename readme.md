@@ -20,7 +20,7 @@ The project includes many example activities that illustrate the use of various 
 - Spinners
 - Switches
 - Time pickers
-and more.
+and more
 
 Each example activity provides an example of how to use a specific UI element or control in an Android app. Some of the examples are simple and provide only basic functionality, while others are more complex and demonstrate more advanced features.
 
